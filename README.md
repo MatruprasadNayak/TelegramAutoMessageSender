@@ -1,5 +1,5 @@
 # TelegramAutoMessageSender
-# Telegram:- *@SmoothAF007
+# Telegram:- @SmoothAF007
 
 ## • Setup API
 * Go to http://my.telegram.org  and log in.
