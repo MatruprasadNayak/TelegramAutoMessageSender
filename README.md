@@ -1,5 +1,5 @@
 # TelegramAutoMessageSender
-
+# Telegram:- *@SmoothAF007
 
 ## • Setup API
 * Go to http://my.telegram.org  and log in.
@@ -12,9 +12,9 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/MatruprasadNayak/TelegramAutoMessageSender`
 
-`$ cd TeleGram-Scraper`
+`$ cd TelegramAutoMessageSender
 
 `$ chmod +x * && python3 setup.py`
 
